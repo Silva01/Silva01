@@ -17,11 +17,13 @@
 <a href="https://www.linkedin.com/in/daniel-silva-61204988" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
-## Statistics
+## Statistics 
 
-![linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=silva01&layout=compact&langs_count=7&theme=dracula)
-![Commits](https://github-readme-stats.vercel.app/api?username=silva01&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
-
+<div>
+<a href="https://github.com/silva01"></a>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=silva01&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=silva01&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
 
 <!--
 **Silva01/Silva01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
